@@ -3,7 +3,7 @@ public class KfirErlich{
 	{
 		for(int i=1; i<=10; i++)
 		{
-			System.out.println("Kfir Erlich");
+			System.out.println("Lionel Messi is the best");
 		}
 	}
 }
